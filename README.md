@@ -1,2 +1,71 @@
-# url_shortener
-A website which shortens the size of URL/ link to any application. It produces links with customizable name that are easy to  share  and use.
+# URL Shortener 🔗
+
+A simple **URL Shortener web app** built with HTML, CSS, and JavaScript.  
+This project lets you shorten long URLs into compact, shareable links.
+
+---
+
+## 🚀 Features
+- Shorten long URLs into small links
+- Copy shortened link with one click
+- Checks if the URL uses HTTPS (secure) or HTTP (not secure)
+- Lightweight and fast
+
+---
+
+## 📂 Project Structure
+url_shortener/
+│── images/ # Contains images and icons
+│── url_shortener/ # Core app logic (JavaScript files, etc.)
+│── index.html # Main HTML file
+│── styles.css # Styling for the app
+
+---
+
+## 🛠️ Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/ankurkumar5198/url_shortener.git
+Navigate to the project folder:
+
+
+cd url_shortener
+Open index.html in your browser to start using the app.
+
+💡 Usage
+Enter a long URL into the input field
+
+Click the Shorten button
+
+Copy and share the generated short link 🚀
+
+📸 Screenshots
+
+🤝 Contributing
+Contributions are welcome!
+
+Fork the project
+
+Create a new branch (git checkout -b feature-name)
+
+Commit your changes (git commit -m "Added feature")
+
+Push and open a Pull Request
+
+📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
+
+
+---
+
+⚡ This is a **ready-to-use README.md**. Just save it as `README.md` in your project folder and push to GitHub.  
+
+👉 Do you also want me to add **GitHub badges** (stars, forks, license) at the very top to make it look more professional?
+
+
+
+
+
+
+
+Ask ChatGPT
