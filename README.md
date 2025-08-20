@@ -54,13 +54,7 @@ Push and open a Pull Request
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
-
-
 ---
-
-⚡ This is a **ready-to-use README.md**. Just save it as `README.md` in your project folder and push to GitHub.  
-
-👉 Do you also want me to add **GitHub badges** (stars, forks, license) at the very top to make it look more professional?
 
 
 
