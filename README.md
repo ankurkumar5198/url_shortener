@@ -25,7 +25,7 @@ url_shortener/
 ## 🛠️ Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ankurkumar5198/url_shortener.git
+   git clone https://github.com/your-username/url_shortener.git
 Navigate to the project folder:
 
 
@@ -56,10 +56,3 @@ Push and open a Pull Request
 This project is licensed under the MIT License – feel free to use and modify it.
 ---
 
-
-
-
-
-
-
-Ask ChatGPT
